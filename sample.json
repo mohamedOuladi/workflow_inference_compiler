@@ -1,0 +1,1 @@
+{"steps": [{"echo": {"in": {"message": "hey there!", "my_output": "&string"}}}, {"echo": {"in": {"message": "hey team", "message2": "*string", "my_output": "out"}}}]}
